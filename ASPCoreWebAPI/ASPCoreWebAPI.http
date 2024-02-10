@@ -1,0 +1,6 @@
+@ASPCoreWebAPI_HostAddress = http://localhost:5199
+
+GET {{ASPCoreWebAPI_HostAddress}}/FruitsAPI/
+Accept: application/json
+
+###
